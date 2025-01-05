@@ -1,5 +1,13 @@
 # Automated Hex Nut Fastening using Reinforcement Learning
 
+<p align="center">
+  <img src="docs/figures/IMG_5396.gif" alt="Robot in Action">
+</p>
+<p align="center">
+  <em>Figure 1: The robot threading hex nut onto stud.</em>
+</p>
+
+
 ## Overview
 This project implements a reinforcement learning (RL) approach to automate the fastening of hex nuts onto threaded studs using an articulated robot arm. The goal was to use a Deep Q-Network (DQN) algorithm to improve upon the classical controls approach and create a system capable of adapting to environmental changes without extensive manual tuning.
 
