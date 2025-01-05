@@ -80,4 +80,8 @@ The full project report is available in the docs/ directory: report.pdf. Figures
 
 ## References
 
-Refer to the project report for a complete list of references and acknowledgments.
+Refer to the project report for a complete list of references.
+
+## Acknowledgments
+This project was developed as part of the course **ELE588: Applied Machine Learning** at the University of Rhode Island. Special thanks to Dr. He for his guidance throughout the course and to Dr. Jouaneh for access to the Epson VT6L robot arm and facilities used for training.
+
